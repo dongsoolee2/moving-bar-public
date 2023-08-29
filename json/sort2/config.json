@@ -1,0 +1,17 @@
+{
+    "home_mac": "/Users",
+    "home_linux": "/home",
+
+    "sort_version": "sort2",
+    "sort_version_num": 2,
+
+    "salamander_num_total": 15, 
+    "retina_num_total": 16,
+    "intracell_num_total": 18,
+    "g_cell_num_total": 188,
+
+    "proj_dir": "/dlee/moving-bar/",
+    "data_sort_dir": "data-sort/",
+    "data_extract_dir": "data-extract/sort2/"
+}
+

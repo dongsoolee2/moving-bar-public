@@ -1,0 +1,26 @@
+00_numbers
+
+# numbers and statistics
+
+[sort2]
+
+Total number of cells: 189 ganglion cells, 18 intracells
+    Class 1: 94 ganglion cells, 12 intracells
+        Type: Off-type ganglion cell & Off-type intracell
+        Distance: within 300 um
+        Note: All cells nearby intracell
+    Class 2: 25 ganglion cells, 3 intracells
+        Class 1 + {(mb_ad == 1) & (mb_ns == 1)}
+        Note: Sessions without visual stimulation
+    Class 3: 69 ganglion cells, 11 intracells
+        Type: fast Off-type ganglion cell & Off-type intracell
+        Distance: within 300 um
+    Class 4: 25 ganglion cells, 9 intracells
+        Type: slow Off-type ganglion cell & Off-type intracell
+        Distance: within 300 um
+    Class 5: 25 ganglion cells, 3 intracells
+        Class 1 + {(mb_ad == 1) & (mb_2ad == 1)}
+        Note: Sessions with different amount of current injection
+    Class 6: 
+
+
